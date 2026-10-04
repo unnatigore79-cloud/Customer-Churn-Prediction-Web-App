@@ -12,7 +12,7 @@ Customer churn directly impacts business revenue and retention. This interactive
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️️ Tech Stack
 - **Language:** Python
 - **Data Analysis & Visualization:** Pandas, NumPy, Seaborn, Matplotlib
 - **Machine Learning:** Scikit-Learn (Random Forest Classifier)
@@ -35,5 +35,19 @@ The application accepts key input parameters such as Tenure, Monthly Charges, To
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Files & Repository Structure
 
+- `Customer_Churn_Prediction.ipynb` : Exploratory Data Analysis (EDA) & Machine Learning Model Training Notebook
+- `app.py` : Python script containing Gradio Web Application UI and prediction logic
+- `churn_model.pkl` : Pre-trained Random Forest ML Model binary file
+- `Customer Churn Distribution - Task 3.png` : Visual exploratory data analysis chart screenshot
+- `Customer Churn Prediction Web App .mp4` : Recorded video demonstration of the live interactive web app
+- `README.md` : Complete project documentation and guide
+
+---
+
+## 💻 How to Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/unnatigore79-cloud/Customer-Churn-Prediction-Web-App.git](https://github.com/unnatigore79-cloud/Customer-Churn-Prediction-Web-App.git)
